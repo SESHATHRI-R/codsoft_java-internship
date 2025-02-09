@@ -21,9 +21,9 @@ public class quiz_app {
         System.out.println("Welcome to the quiz! You have " + TIME_LIMIT + " seconds to answer the questions.");
         System.out.println("Let's start!");
 
-        askQuestion("What is the capital of France?", "Paris", scanner);
-        askQuestion("What is 5 + 7?", "12", scanner);
-        askQuestion("Who wrote 'Hamlet'?", "Shakespeare", scanner);
+        askQuestion("What is the capital of India?", "New Delhi", scanner);
+        askQuestion("Who is the father of quantum physics?", "Max Planck", scanner);
+        askQuestion("Who designed the java programming?", "James Gosling", scanner);
 
         System.out.println("You have completed the quiz! Your final score is: " + score);
         scanner.close();

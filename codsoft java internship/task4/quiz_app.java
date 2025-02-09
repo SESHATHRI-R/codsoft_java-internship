@@ -40,7 +40,4 @@ public class quiz_app {
             System.out.println("Incorrect. The correct answer is: " + correctAnswer);
         }
     }
-}
-
-  
-
+} 
